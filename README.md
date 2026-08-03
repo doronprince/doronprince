@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @doronprince
-- 👀 I’m interested in developing AI based projects
-- 🌱 I’m currently learning AI and ML as major in UG
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Stangplaysyt@gmail.com
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: ...
+### Hi, I'm Doron
 
-<!---
-doronprince/doronprince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an undergrad exploring AI and machine learning, building agentic and automation-focused projects.
+
+Currently building: KSP God's Eye, an agentic RAG-powered intelligence fusion system for the KSP Datathon 2026.
+
+Learning: AI and ML fundamentals as part of my undergrad studies.
+
+Open to collaborating on: AI/ML projects.
+
+Reach me: doronprince@gmail.com
